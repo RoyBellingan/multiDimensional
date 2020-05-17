@@ -1,0 +1,3 @@
+[submodule "RTree"]
+	path = RTree
+	url = git@github.com:nushoin/RTree.git
